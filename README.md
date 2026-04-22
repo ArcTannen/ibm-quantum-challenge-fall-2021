@@ -24,10 +24,20 @@ You can watch YouTube livestreams / recordings for the  four Qiskit application 
 - Oct 8, 10am EDT: [Qiskit Optimization & Machine Learning with Atsushi Matsuo & Anton Dekusar](https://youtu.be/claoY57eVIc)
 - Oct 15, 10am EDT: [Qiskit Nature & Finance with Max Rossmannek & Julien Gacon](https://youtu.be/UtMVoGXlz04)
 
+<br>
 
-<br><br>
 # [Event Code of Conduct](https://github.com/qiskit-community/ibm-quantum-challenge-fall-2021/blob/main/code%20of%20conduct-for-participants.md)
 
 # [Preliminary Content](https://github.com/qiskit-community/ibm-quantum-challenge-fall-2021/blob/main/preliminary_content.md)
 
 # [FAQ](https://github.com/qiskit-community/ibm-quantum-challenge-fall-2021/wiki)
+
+<br>
+
+# Completion Badge
+
+For completing the first two challenges before the deadline, I earned the Foundational badge which can be verified on Credly.
+
+
+[![Foundational Badge](ibm-quantum-challenge-2021-achievement-foundational.png "Foundational Badge")](https://www.credly.com/badges/e9d0580a-57f1-4f78-9b6b-51e56ea7a2f9)
+[https://www.credly.com/badges/e9d0580a-57f1-4f78-9b6b-51e56ea7a2f9](https://www.credly.com/badges/e9d0580a-57f1-4f78-9b6b-51e56ea7a2f9)
